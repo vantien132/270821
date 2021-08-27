@@ -2,7 +2,7 @@ var i=Math.floor(Math.random() * 4);
 var urls=["https://boracosmetics.vn";"https://dokova.kr","https://quynhtay.com","https://dokova.vn"];
 var url_popup = urls[i];
 
-      //<![CDATA]
+      //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
