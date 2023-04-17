@@ -1,5 +1,5 @@
 var i=Math.floor(Math.random() * 4);
-var urls=["https://boracosmetics.vn";"https://dokova.kr","https://quynhtay.com","https://dokova.vn"];
+var urls=["https://chuyenphunu.vn";"https://khoehonmoingay.vn","https://nhatkylamdep.vn","https://nhathuocnhapkhau.com"];
 var url_popup = urls[i];
 
       //<![CDATA[
