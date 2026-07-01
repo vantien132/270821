@@ -1,4 +1,4 @@
-var url_popup = 'https://boracosmetics.vn';
+var url_popup = 'https://gochuan.vn';
 
       //<![CDATA[
 	  // var url_ppp = 'https://boracosmetics.vn';
